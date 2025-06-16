@@ -7,6 +7,13 @@
     <exercise workspace="0.5in">
       <statement>
         <p>
+          This is a new exercise!
+        </p>
+      </statement>
+      </exercise>
+    <exercise workspace="0.5in">
+      <statement>
+        <p>
           Each matrix below represents a relation. The rows and columns are numbered <m>1</m> through <m>3</m> or <m>4</m>. Give the arrow diagram for each matrix, then express each relation as a set of ordered pairs.
 
           <ol cols="3" marker="(a)">
